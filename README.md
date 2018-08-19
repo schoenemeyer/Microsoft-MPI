@@ -28,7 +28,8 @@ https://blogs.technet.microsoft.com/windowshpc/2015/02/02/how-to-compile-and-run
 
 
 
-"""
+
+```
 
 // MPIHelloWorld.cpp: Definiert den Einstiegspunkt für die Konsolenanwendung.
 #include "stdafx.h"
@@ -60,5 +61,6 @@ int main(int argc, char** argv) {
 }
 
 
-"""
+
+```
 
