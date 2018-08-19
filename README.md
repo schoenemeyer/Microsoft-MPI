@@ -31,7 +31,6 @@ https://blogs.technet.microsoft.com/windowshpc/2015/02/02/how-to-compile-and-run
 """
 
 // MPIHelloWorld.cpp: Definiert den Einstiegspunkt für die Konsolenanwendung.
-//
 #include "stdafx.h"
 #include "stdio.h"
 #include "mpi.h"
@@ -56,7 +55,6 @@ int main(int argc, char** argv) {
 	// Print off a hello world message
 	printf("Hello world from processor %s, rank %d out of %d processors\n",
 		processor_name, world_rank, world_size);
-
 	// Finalize the MPI environment.
 	MPI_Finalize();
 }
