@@ -10,7 +10,7 @@ Download MS-MPI SDK
 
 2. Verify that the MS-MPI environment variables have been set 
  
- <img src="https://github.com/schoenemeyer/WRF3.8-in-Azure/blob/master/4-Figure2-1.png" width="252">
+ <img src="https://github.com/schoenemeyer/Microsoft-MPI/blob/master/setmsmpi.PNG" width="252">
 
 2. Install Microsoft MPI SDK
 https://msdn.microsoft.com/en-us/library/bb524831.aspx
