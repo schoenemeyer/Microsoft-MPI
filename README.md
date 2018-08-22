@@ -1,8 +1,6 @@
-# Microsoft-MPI
-How to build MPI Executable for Microsoft OS with Visual Studio 2017
+# Build MPI Codes with Microsoft-MPI
 
-
-Download MS-MPI SDK
+This lab shows step-by-step how to build MPI Executable for Microsoft HPC Server with Visual Studio 2017
 
 ## Basic Installation 
  
