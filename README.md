@@ -19,8 +19,13 @@ http://go.microsoft.com/FWLink/p/?LinkID=389556
 2. Install INSTALL VISUAL STUDIO 2017
 https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio
 
+3. Download MPIHelloWorld Projekt
+https://hpccenth2lts.blob.core.windows.net/windows/MPIHelloWorld.zip
 
-# 
+unzip ther file and open the file MPIHelloWorld.sln with Visual Studio
+
+
+## test 
 Install Microsoft HPC-Pack 2012 Client or 2016
 Download https://www.microsoft.com/en-us/download/confirmation.aspx?id=36044
 
