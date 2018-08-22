@@ -8,8 +8,7 @@ Download MS-MPI SDK
 1. Download MS-MPI v9.0.1 
 
 
-
- can verify that the MS-MPI environment variables have been set 
+2. Verify that the MS-MPI environment variables have been set 
  
  
 
