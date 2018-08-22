@@ -17,7 +17,7 @@ http://go.microsoft.com/FWLink/p/?LinkID=389556
  
 <img src="https://github.com/schoenemeyer/Microsoft-MPI/blob/master/setmsmpi.PNG" width="452">
 
-2. Install INSTALL VISUAL STUDIO 2017
+2. Install  VISUAL STUDIO 2017
 https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio
 
 Make sure to install the C++ package.
