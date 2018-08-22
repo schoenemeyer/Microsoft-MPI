@@ -52,8 +52,14 @@ mpiexec -n 8 MPIHelloWorld.exe
 ## Testing the Executable on your Cloud VM
 
 Open the portal and create a Windows Server
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal
+Upload your executable and run your mpi executable on a single node
 
 ## Running Multinode jobs 
 
-Large scale runs
+please read https://docs.microsoft.com/en-us/azure/batch/batch-mpi for running multinode jobs. Azure Batch is the easiest way 
+There are complete samples available
+https://github.com/Azure/azure-batch-samples/archive/master.zip
+
+
 
