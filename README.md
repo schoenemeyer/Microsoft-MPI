@@ -4,7 +4,7 @@ How to build MPI Executable for Microsoft OS with Visual Studio 2017
 
 Download MS-MPI SDK
 
-## Installation 
+## Basic Installation 
  
 1. Download MS-MPI v9.0.1 
 
@@ -30,14 +30,12 @@ Change to the file MPIHelloWorld.cpp. You should see something like this
 
 <img src="https://github.com/schoenemeyer/Microsoft-MPI/blob/master/pictures/mpihelloworldcpp.PNG" width="452">
 
-4. Build
+## Build the Executable
 
 Right-hand click on the MPIHelloWorld.cpp  and modify 
 
 
-
-## Testing
-
+## Testing the Executable
 
 
 <img src="https://github.com/schoenemeyer/Microsoft-MPI/blob/master/pictures/mpirun-windows.PNG" width="452">
