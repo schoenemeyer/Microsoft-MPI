@@ -33,13 +33,23 @@ Change to the file MPIHelloWorld.cpp. You should see something like this
 Right-hand click on the MPIHelloWorld.cpp  and modify 
 
 
-## Testing the Executable
+## Testing the Executable on your local machine 
 
-The executable can be tested
+The executable can be tested like this
 
 ```
-mpiexec -n 2 MPIHelloWorld.exe
+mpiexec -n 8 MPIHelloWorld.exe
 ```
 
 
 <img src="https://github.com/schoenemeyer/Microsoft-MPI/blob/master/pictures/mpirun-windows.PNG" width="452">
+
+
+## Testing the Executable on your Cloud VM
+
+Open the portal and create a Windows Server
+
+## Running Multinode jobs 
+
+Large scale runs
+
