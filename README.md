@@ -30,7 +30,11 @@ Change to the file MPIHelloWorld.cpp. You should see something like this
 
 ## Build the Executable
 
-Right-hand click on the MPIHelloWorld.cpp  and modify 
+Right-hand click on the MPIHelloWorld.cpp, select Properties and add your local Include Directories.
+
+
+<img src="https://github.com/schoenemeyer/Microsoft-MPI/blob/master/pictures/settings-include.PNG" width="452">
+
 
 
 ## Testing the Executable on your local machine 
