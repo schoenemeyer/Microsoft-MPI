@@ -36,7 +36,10 @@ Right-hand click on the MPIHelloWorld.cpp  and modify
 ## Testing the Executable
 
 The executable can be tested
-'''
+
+```
 mpiexec -n 2 MPIHelloWorld.exe
-'''
+```
+
+
 <img src="https://github.com/schoenemeyer/Microsoft-MPI/blob/master/pictures/mpirun-windows.PNG" width="452">
