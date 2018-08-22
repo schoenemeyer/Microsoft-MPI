@@ -28,6 +28,7 @@ https://hpccenth2lts.blob.core.windows.net/windows/MPIHelloWorld.zip
 unzip the file and open the file MPIHelloWorld.sln with Visual Studio 2017. 
 Change to the file MPIHelloWorld.cpp. You should see something like this 
 
+<img src="https://github.com/schoenemeyer/Microsoft-MPI/blob/master/pictures/mpihelloworldcpp.PNG" width="452">
 
 
 ```
