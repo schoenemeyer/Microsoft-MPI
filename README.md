@@ -7,16 +7,15 @@ Download MS-MPI SDK
 
 1. Download MS-MPI v9.0.1 
 
+http://go.microsoft.com/FWLink/p/?LinkID=389556
+
 
 2. Verify that the MS-MPI environment variables have been set 
  
  <img src="https://github.com/schoenemeyer/Microsoft-MPI/blob/master/setmsmpi.PNG" width="452">
 
-2. Install Microsoft MPI SDK
-https://msdn.microsoft.com/en-us/library/bb524831.aspx
-
-More Details
-https://msdn.microsoft.com/en-us/library/bb524831(v=vs.85).aspx
+2. Install INSTALL VISUAL STUDIO 2017
+https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio
 
 
 # 
