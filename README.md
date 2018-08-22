@@ -4,8 +4,8 @@ How to build MPI Executable for Microsoft OS with Visual Studio 2017
 
 Download MS-MPI SDK
 
-##Installation 
-
+## Installation 
+ 
 1. Download MS-MPI v9.0.1 
 
 http://go.microsoft.com/FWLink/p/?LinkID=389556
@@ -20,23 +20,13 @@ http://go.microsoft.com/FWLink/p/?LinkID=389556
 2. Install INSTALL VISUAL STUDIO 2017
 https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio
 
-3. Download MPIHelloWorld Projekt
+Make sure to install the C++ package.
+
+3. Download the MPIHelloWorld Project Folder 
 https://hpccenth2lts.blob.core.windows.net/windows/MPIHelloWorld.zip
 
-unzip ther file and open the file MPIHelloWorld.sln with Visual Studio
-
-
-## test 
-Install Microsoft HPC-Pack 2012 Client or 2016
-Download https://www.microsoft.com/en-us/download/confirmation.aspx?id=36044
-
-Install  HPC Pack 2012 SDK 
-Download  HPC Pack 2012 SDK 
-https://www.microsoft.com/en-us/download/confirmation.aspx?id=36043
-
-
-https://blogs.technet.microsoft.com/windowshpc/2015/02/02/how-to-compile-and-run-a-simple-ms-mpi-program/
-
+unzip the file and open the file MPIHelloWorld.sln with Visual Studio 2017. 
+Change to the file MPIHelloWorld.cpp. You should see something like this 
 
 
 
